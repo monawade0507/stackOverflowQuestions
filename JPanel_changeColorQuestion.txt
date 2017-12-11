@@ -1,0 +1,7 @@
+To set the color in a JPanel or most things in Java Swing, there is a function available called .setColor(Color c). For your code, you would do:
+
+g.setColor(Color.BLACK)
+
+Here is a helpful link with more explanation: http://www.java2s.com/Tutorials/Java/java.awt/Graphics/0940__Graphics.setColor_Color_c_.htm
+
+This website also has other links so answer more Java Swing questions.
